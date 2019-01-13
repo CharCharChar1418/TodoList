@@ -1,0 +1,4 @@
+#Fri Jan 11 20:09:45 EST 2019
+base.0=/Users/junyishi/Desktop/Android/ToDoList/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

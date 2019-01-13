@@ -1,0 +1,351 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/ad96472d5aca65395c325135883b2395/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c78e49efb59b2147635efdaaa03ce5ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/77a3be6ecdb096bfb2079c45efa19157/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/54fba5960437ba09d5c9e3a9894ae26b/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3dae5bb657fa7c5aa424625745c09198/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:17:1-54:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2d778095c0c37e5198381dc0176d29dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/152e291631284bd75e5ecf41d7087add/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/2cc75f86467cc438aadfef091a73ba01/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8a1ced808138ef88a50912c9c330d90a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/78d1b7fb7bf6ce097d65e91dc68ff695/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2c9e6262732ab28e596ed6e958e0bb2a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/3801dde4b60de5ff9db086f2b74c3315/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/03778bd8969b2c647cb0d153b229f3c6/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9163508bcfa71a35b4c6aaf8270e4bd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1fbdb58b55ee1766dcb562ba9c6b0380/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/485fbf3154ddcd2f0458cb876e61a477/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/adaed53943aaa41708159f8730e521d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/13c0ae650079250039756414dbeea7c7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/df64037b8d546d899c44e0edd2e4c01a/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c120c661c969552edb733533fd20f1a8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6d38d3fb608d73e4b0f50725448cc372/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/4c7ed9606bf9b65550216203bb24dca5/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/e6b76f660988b7d0baff64a095291de9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/6c5d1396b4a24aa88be0dcbe73e3317a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/34c338ac0c2d01daf1f47366338496bd/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/73f691f7bcb8759e929eb09b23fe796e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/cb25e4651dd207b9faac55b070b72241/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0edcc41a5c63ede2e56171f9c639aac2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/507633e139026fb61e9fb9d3890d5b8d/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/ad96472d5aca65395c325135883b2395/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/ad96472d5aca65395c325135883b2395/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/77a3be6ecdb096bfb2079c45efa19157/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/77a3be6ecdb096bfb2079c45efa19157/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8a1ced808138ef88a50912c9c330d90a/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8a1ced808138ef88a50912c9c330d90a/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/78d1b7fb7bf6ce097d65e91dc68ff695/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/78d1b7fb7bf6ce097d65e91dc68ff695/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2c9e6262732ab28e596ed6e958e0bb2a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2c9e6262732ab28e596ed6e958e0bb2a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/3801dde4b60de5ff9db086f2b74c3315/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/3801dde4b60de5ff9db086f2b74c3315/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/03778bd8969b2c647cb0d153b229f3c6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/03778bd8969b2c647cb0d153b229f3c6/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/13c0ae650079250039756414dbeea7c7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/13c0ae650079250039756414dbeea7c7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/df64037b8d546d899c44e0edd2e4c01a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/df64037b8d546d899c44e0edd2e4c01a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/4c7ed9606bf9b65550216203bb24dca5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/4c7ed9606bf9b65550216203bb24dca5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/e6b76f660988b7d0baff64a095291de9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/e6b76f660988b7d0baff64a095291de9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/6c5d1396b4a24aa88be0dcbe73e3317a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/6c5d1396b4a24aa88be0dcbe73e3317a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/34c338ac0c2d01daf1f47366338496bd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/34c338ac0c2d01daf1f47366338496bd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/cb25e4651dd207b9faac55b070b72241/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/cb25e4651dd207b9faac55b070b72241/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/507633e139026fb61e9fb9d3890d5b8d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/507633e139026fb61e9fb9d3890d5b8d/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.junyishi.todolist.MainActivity
+ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.junyishi.todolist.AddTask
+ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:19:9-54
+	android:name
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml:19:19-42
+uses-sdk
+INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/ad96472d5aca65395c325135883b2395/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/ad96472d5aca65395c325135883b2395/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c78e49efb59b2147635efdaaa03ce5ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c78e49efb59b2147635efdaaa03ce5ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/77a3be6ecdb096bfb2079c45efa19157/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/77a3be6ecdb096bfb2079c45efa19157/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/54fba5960437ba09d5c9e3a9894ae26b/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/54fba5960437ba09d5c9e3a9894ae26b/AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3dae5bb657fa7c5aa424625745c09198/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3dae5bb657fa7c5aa424625745c09198/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2d778095c0c37e5198381dc0176d29dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2d778095c0c37e5198381dc0176d29dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/152e291631284bd75e5ecf41d7087add/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/152e291631284bd75e5ecf41d7087add/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/2cc75f86467cc438aadfef091a73ba01/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/2cc75f86467cc438aadfef091a73ba01/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8a1ced808138ef88a50912c9c330d90a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8a1ced808138ef88a50912c9c330d90a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/78d1b7fb7bf6ce097d65e91dc68ff695/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/78d1b7fb7bf6ce097d65e91dc68ff695/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2c9e6262732ab28e596ed6e958e0bb2a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2c9e6262732ab28e596ed6e958e0bb2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/3801dde4b60de5ff9db086f2b74c3315/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/3801dde4b60de5ff9db086f2b74c3315/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/03778bd8969b2c647cb0d153b229f3c6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/03778bd8969b2c647cb0d153b229f3c6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9163508bcfa71a35b4c6aaf8270e4bd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9163508bcfa71a35b4c6aaf8270e4bd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1fbdb58b55ee1766dcb562ba9c6b0380/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1fbdb58b55ee1766dcb562ba9c6b0380/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/485fbf3154ddcd2f0458cb876e61a477/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/485fbf3154ddcd2f0458cb876e61a477/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/adaed53943aaa41708159f8730e521d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/adaed53943aaa41708159f8730e521d7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/13c0ae650079250039756414dbeea7c7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/13c0ae650079250039756414dbeea7c7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/df64037b8d546d899c44e0edd2e4c01a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/df64037b8d546d899c44e0edd2e4c01a/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c120c661c969552edb733533fd20f1a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c120c661c969552edb733533fd20f1a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6d38d3fb608d73e4b0f50725448cc372/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6d38d3fb608d73e4b0f50725448cc372/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/4c7ed9606bf9b65550216203bb24dca5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/4c7ed9606bf9b65550216203bb24dca5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/e6b76f660988b7d0baff64a095291de9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/e6b76f660988b7d0baff64a095291de9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/6c5d1396b4a24aa88be0dcbe73e3317a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/6c5d1396b4a24aa88be0dcbe73e3317a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/34c338ac0c2d01daf1f47366338496bd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/34c338ac0c2d01daf1f47366338496bd/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/73f691f7bcb8759e929eb09b23fe796e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/73f691f7bcb8759e929eb09b23fe796e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/cb25e4651dd207b9faac55b070b72241/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/cb25e4651dd207b9faac55b070b72241/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.core:runtime:1.1.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0edcc41a5c63ede2e56171f9c639aac2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0edcc41a5c63ede2e56171f9c639aac2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/507633e139026fb61e9fb9d3890d5b8d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/507633e139026fb61e9fb9d3890d5b8d/AndroidManifest.xml:4:5-43
+INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/3801dde4b60de5ff9db086f2b74c3315/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/junyishi/Desktop/Android/ToDoList/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/e79ebc388a6fd37cda054cbf509457fb/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f11c95cac2885d4e4b72d32a5ca6f92a/AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:29:9-63
+permission#com.example.junyishi.todolist.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:32:22-76
+uses-permission#com.example.junyishi.todolist.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.junyishi.todolist
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:42:27-58
+category#com.example.junyishi.todolist
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/56599817049775ab896acf66e396df7c/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8a1ced808138ef88a50912c9c330d90a/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8a1ced808138ef88a50912c9c330d90a/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8a1ced808138ef88a50912c9c330d90a/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8a1ced808138ef88a50912c9c330d90a/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/8a1ced808138ef88a50912c9c330d90a/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2c9e6262732ab28e596ed6e958e0bb2a/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2c9e6262732ab28e596ed6e958e0bb2a/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/junyishi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2c9e6262732ab28e596ed6e958e0bb2a/AndroidManifest.xml:24:13-58
